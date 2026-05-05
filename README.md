@@ -3,11 +3,11 @@
 A modern, responsive User Dashboard built with React, Tailwind CSS, and Framer Motion. This project was developed as a frontend technical assessment.
 
 ## 🚀 Live Demo
-[Insert your Vercel/Netlify link here]
+**[View the Live Dashboard Here](https://user-dashboard-iota-self.vercel.app/)**
 
 ## 🛠️ Tech Stack
 - **React 19** (Functional Components & Hooks)
-- **Tailwind CSS** (Modern v4 styling)
+- **Tailwind CSS** (Modern styling)
 - **Axios** (API Management)
 - **Lucide React** (Iconography)
 - **Framer Motion** (Micro-interactions & Animations)
@@ -18,6 +18,8 @@ A modern, responsive User Dashboard built with React, Tailwind CSS, and Framer M
 - **Responsive Design:** Mobile-first approach using Tailwind's grid system.
 
 ## 📦 Installation & Setup
+
+If you would like to run this project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
